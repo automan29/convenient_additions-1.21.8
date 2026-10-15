@@ -4,7 +4,7 @@ license="Not specified"
 
 [[mods]]
 modId="convenient_additions"
-version="0.9.8"
+version="0.9.9"
 displayName="Convenient Additions"
 displayURL="https://github.com/automan29/convenient_additions"
 credits="It was completed by me :)"
@@ -24,7 +24,7 @@ versionRange="[1.21.8]"
 ordering="AFTER"
 side="BOTH"
 
-[[dependencies.convenient_extras]]
+[[dependencies.convenient_additions]]
 modId="convenient_extras"
 type="optional"
 versionRange="[0.9.9,]"

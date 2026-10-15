@@ -34,6 +34,10 @@
     "absolute": 0
   },
   "project_start_to_heightmap": "WORLD_SURFACE",
-  "biomes": "pale_garden",
+  "biomes": [
+	  "pale_garden",
+	  "taiga",
+	  "snowy_taiga"
+  ],
   "use_expansion_hack": false
 }
